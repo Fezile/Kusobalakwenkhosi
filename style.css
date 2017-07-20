@@ -1,0 +1,31 @@
+h1 {
+		font-size: 50px;
+		font-style: bold;
+		font: "Times New Roman";
+		color: #D4AF37
+	}
+	body {
+	background-color: #e6e6ff
+	}
+	.rotate90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+	}
+	.left {
+		width: 50%;
+		float: left;
+	}
+	.right {
+		width: 50%;
+		float: ;
+	}
+img{
+	/*padding-top: 70px;*/
+	/*/padding-left: 70px;*/*/
+}
+	.left header {
+		
+	}
