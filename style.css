@@ -20,12 +20,24 @@ h1 {
 	}
 	.right {
 		width: 50%;
-		float: ;
+		float: right;
 	}
 img{
 	/*padding-top: 70px;*/
 	/*/padding-left: 70px;*/*/
 }
-	.left header {
-		
+	.small {
+		font-size: 20px;
 	}
+	.header {
+		height: 60%;
+	}
+	.content  {
+		height: 80%;
+		border-top: 2px solid #D4AF37; 
+	}
+	.footer  {
+		height: 70%;
+		border-top: 2px solid #D4AF37;  
+	}
+	
